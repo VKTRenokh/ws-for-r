@@ -9,7 +9,12 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "prettier": "^3.2.5",
     "typescript": "^5.2.2",
     "vite": "^5.2.0"
+  },
+  "dependencies": {
+    "@control.ts/signals": "^0.0.2",
+    "duck-fp": "^1.12.3"
   }
 }
